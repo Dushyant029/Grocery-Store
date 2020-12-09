@@ -1,4 +1,4 @@
-# store_ui
+# GroceryStore
 
 A new Flutter project.
 
