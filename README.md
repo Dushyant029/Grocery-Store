@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application.  
 
 ## Preview
 ![image](https://user-images.githubusercontent.com/55031190/101621997-85aba700-3a3c-11eb-8c2c-af02dc7c8640.png)
